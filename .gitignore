@@ -1,0 +1,6 @@
+﻿node_modules 
+public
+test
+.lock
+package-lock.json
+yarn-err.log
